@@ -1,6 +1,6 @@
 # ChatQCD
 
-[poster](https://indico.cern.ch/event/1291157/contributions/5902233/attachments/2896991/5080392/CHATQCD_ICHEP24.pdf)|[🤗 model]([TBD](https://huggingface.co/sulcan/CHATQCD))|[🤗 data](TBD)
+[poster](https://indico.cern.ch/event/1291157/contributions/5902233/attachments/2896991/5080392/CHATQCD_ICHEP24.pdf)|[🤗model]([TBD](https://huggingface.co/sulcan/CHATQCD))|[🤗 data](TBD)
 
 ![poster](CHATQCD_ICHEP24.png)
 
