@@ -16,4 +16,4 @@ Quantum chromodynamics (QCD) has yielded a vast literature spanning distinct phe
 ![poster](CHATQCD_ICHEP24.png)
 
 ## Code & Examples
-TBD
+[train.ipynb](train.ipynb)|[test.ipynb](test.ipynb)
