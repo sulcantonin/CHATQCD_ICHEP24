@@ -1,7 +1,10 @@
 # ChatQCD: Let Large Language Models Explore QCD
+[arxiv](http://arxiv.org/abs/2409.19021) | ![poster](CHATQCD_ICHEP24.png) | [train.ipynb](train.ipynb)| [test.ipynb](test.ipynb)
+
 [Antonin Sulc (HZB)](https://sulcantonin.github.io/), [Patrick Connor (UHH)](https://www.desy.de/~connorpa/)
 
-![ChatQCD Examples](qcd_example2.png)
+![ChatQCD Examples](qcd_example3.png)
+
 
 ## Applications
 - *Text generation* - Q&A, similar to the any other LLMs, just finetuned on QCD data)
@@ -13,7 +16,13 @@
 
 Quantum chromodynamics (QCD) has yielded a vast literature spanning distinct phenomena. We construct a corpus of papers and build a generative model. This model holds promise for accelerating the capability of scientists to consolidate our knowledge of QCD by the ability to generate and validate scientific works in the landscape of works related to QCD and similar problems in HEP. Furthermore, we discuss challenges and future directions of using large language models to integrate our scientific knowledge about QCD through the automated generation of explanatory scientific texts.
 
-![poster](CHATQCD_ICHEP24.png)
 
-## Code & Examples
+
+## Code & Data
+### Code
 [train.ipynb](train.ipynb)|[test.ipynb](test.ipynb)
+
+### Training Data
+There were some improvements since the poster presentation on creation of the training data. The latest (versioned) training dataset (supervised & unsupervised) available at HuggingFace
+
+[data](https://huggingface.co/sulcan/CHATQCD)
