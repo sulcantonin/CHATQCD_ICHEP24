@@ -3,7 +3,7 @@
 
 [Antonin Sulc (HZB)](https://sulcantonin.github.io/), [Patrick Connor (UHH)](https://www.desy.de/~connorpa/)
 
-![ChatQCD Examples](qcd_example3.png)
+![ChatQCD Examples](qcd_example3.jpeg)
 
 
 ## Applications
