@@ -1,5 +1,5 @@
 # ChatQCD: Let Large Language Models Explore QCD
-[arxiv](http://arxiv.org/abs/2409.19021) | ![poster](CHATQCD_ICHEP24.png) | [train.ipynb](train.ipynb)| [test.ipynb](test.ipynb)
+[arxiv](http://arxiv.org/abs/2409.19021) | [poster](CHATQCD_ICHEP24.png) | [train.ipynb](train.ipynb)| [test.ipynb](test.ipynb)
 
 [Antonin Sulc (HZB)](https://sulcantonin.github.io/), [Patrick Connor (UHH)](https://www.desy.de/~connorpa/)
 
